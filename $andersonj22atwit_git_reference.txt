@@ -1,0 +1,7 @@
+Passed all the Levels in the Lab. 
+- Branching in Git
+- Merging in Git
+- Git Fetchin’
+- Git Pullin’
+- Faking Teamwork
+- Git Pushin
