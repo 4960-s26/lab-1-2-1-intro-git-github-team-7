@@ -1,0 +1,9 @@
+I passed all the levels in learngitbranching.js.org
+
+Intro to commits
+Branching in git
+Merging in git
+Git Fetchin'
+Git Pullin'
+Faking Teamwork
+Git Pushin'
